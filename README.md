@@ -1,99 +1,120 @@
-Privacy Policy
+# Privacy Policy
 
-Last updated: 04.02.2026
+_Last updated: 04.02.2026
 
-1. Introduction
+This repository contains the Privacy Policy for **Skilled Worker Game**, a mobile application developed using Unity.
 
-This Privacy Policy explains how Skilled Worker Game (“we”, “our”, or “the app”) collects, uses, and protects user information.
-We value your privacy and are committed to complying with applicable data protection laws.
+---
 
-2. Information We Collect
+## 1. Introduction
 
-We do not collect personally identifiable information such as name, email address, phone number, or account credentials.
+Your privacy is important to us. This Privacy Policy explains how **Skilled Worker Game** (“we”, “our”, or “the app”) collects, uses, and protects information when you use the app.
 
-However, the app may collect non-personal and technical data through third-party services to ensure functionality and display ads.
+This policy is designed to comply with Apple App Store requirements and applicable data protection laws.
 
-a) Identifiers
+---
 
-Device identifiers (such as device-related identifiers provided by the operating system)
+## 2. Information We Collect
 
-Purpose:
+We do **not** collect personally identifiable information such as:
 
-Displaying ads
+- Name
+- Email address
+- Phone number
+- Account credentials
 
-Analytics
+However, the app may collect **non-personal technical data** through third-party SDKs in order to provide ads, analytics, and app stability.
 
-App functionality
+---
 
-b) Usage Data
+### a) Identifiers
 
-Ad interaction data (e.g., ad impressions)
+- Device-related identifiers provided by the operating system
 
-App usage and interaction data
+**Purpose:**
+- Third-party advertising
+- Analytics
+- App functionality
 
-Purpose:
+---
 
-Analytics
+### b) Usage Data
 
-Improving app performance
+- Ad impressions and ad interaction data
+- App usage and interaction data
 
-Ad delivery
+**Purpose:**
+- Analytics
+- Improving app performance
+- Ad delivery
 
-c) Diagnostics
+---
 
-Crash data
+### c) Diagnostics
 
-Performance data
+- Crash data
+- Performance data
+- Other diagnostic data
 
-Other diagnostic data
+**Purpose:**
+- Bug fixing
+- App stability
+- Performance optimization
 
-Purpose:
+---
 
-App stability
+## 3. Advertising
 
-Bug fixing
+This app displays advertisements provided by third-party ad networks (e.g. Unity Ads).
 
-Performance optimization
+- Ads shown in this app are **non-personalized**
+- The app does **not** track users across apps or websites
+- Advertising identifiers are **not used for tracking**
 
-3. Advertising
+---
 
-This app displays advertisements provided by third-party ad networks such as Unity Ads.
+## 4. Tracking & Personalization
 
-Ads shown in this app are non-personalized
+- This app does **not** use tracking as defined by Apple’s App Tracking Transparency (ATT)
+- No ATT permission is requested
+- No personalized advertising is used
 
-We do not track users across apps or websites
+---
 
-We do not use advertising identifiers for tracking purposes
+## 5. Data Sharing
 
-4. Tracking & Personalization
+We do **not** sell, rent, or share personal data.
 
-This app does not track users as defined by Apple’s App Tracking Transparency framework
+Non-personal technical data may be processed by third-party services strictly for:
+- App functionality
+- Analytics
+- Advertising delivery
 
-No ATT permission is requested
+---
 
-No personalized advertising is used
+## 6. Children’s Privacy
 
-5. Data Sharing
+This app is **not primarily directed at children** as defined by applicable laws.
 
-We do not sell, rent, or share personal data with third parties.
-Non-personal technical data may be processed by third-party SDKs (e.g., ad networks) solely for app functionality and analytics.
-
-6. Children’s Privacy
-
-This app is not primarily directed at children under applicable laws.
 We do not knowingly collect personal data from children.
 
-7. Data Security
+---
 
-We take reasonable measures to protect collected data and ensure it is handled securely.
+## 7. Data Security
 
-8. Changes to This Policy
+We take reasonable measures to protect information processed by the app and to ensure it is handled securely.
 
-We may update this Privacy Policy from time to time.
-Any changes will be reflected on this page with an updated date.
+---
 
-9. Contact
+## 8. Changes to This Privacy Policy
 
-If you have any questions about this Privacy Policy, please contact us at:
+This Privacy Policy may be updated from time to time.  
+Any changes will be reflected in this file with an updated revision date.
 
-Email: hello@en0n.dev
+---
+
+## 9. Contact
+
+If you have any questions regarding this Privacy Policy, please contact:
+
+**Email:** hello@en0n.dev
